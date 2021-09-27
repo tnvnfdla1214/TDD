@@ -14,7 +14,7 @@
 4. 시나리오에 필요한 UseCase작성, 각 레이어 구축(Repository, Model 등)
 5. 각 상태를 state Pattern 으로 표현하여 쉬운 방법으로 결과 검증하기
 ### :wrench: 프로젝트 사용 사례
-* ToDo
+* [ToDo](https://github.com/tnvnfdla1214/ToDo)
 
 ##### 시나리오
 1. ToRo 아이템 데이터 넣고 리스트 잘 불러오는지 확인하기
